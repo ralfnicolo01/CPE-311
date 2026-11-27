@@ -8,8 +8,7 @@ This repository holds my laboratory work for CPE 311.
 |:--|:--|
 | **Course Code** | CPE 311 |
 | **Course Name** | Computational Thinking with Python |
-| **Credits** | 3 units (2 units lecture, 1 unit laboratory)
-2 hours lecture, 3 hours laboratory |
+| **Credits** | 3 units (2 units lecture, 1 unit laboratory) 2 hours lecture, 3 hours laboratory |
 | **Prerequisites** | Linear Algebra with Matlab (MATH 013)
 Engineering Data Analysis (MATH 019A) |
 | **Term** | 2nd Semester, SY 2026-2027 |
