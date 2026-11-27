@@ -20,7 +20,7 @@ This repository holds my laboratory work for CPE 311.
 
 1. Analyze the applications of data science and optimization techniques using Python.
 2. Apply Python programming language to analyze data, solve a problem and present it to the stakeholders.
-3. Create and present a data storyboard that solves a problem aligned with United Nations SDG and other international indicators..
+3. Create and present a data storyboard that solves a problem aligned with United Nations SDG and other international indicators.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=30363d&height=1" width="100%" alt=""/>
 
